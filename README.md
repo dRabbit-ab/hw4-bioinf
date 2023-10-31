@@ -16,7 +16,7 @@
 
 | Clustal | Clustal 70% |
 |-|-|
-| ![image](https://github.com/dRabbit-ab/hw4-bioinf/assets/79662580/95ddd389-c419-46f1-80a3-fe6bb0c7c9fe) | ![image](https://github.com/dRabbit-ab/hw4-bioinf/assets/79662580/845efc0e-327d-4457-b3c4-03e582cfd7ce) |
+| ![image](https://github.com/dRabbit-ab/hw4-bioinf/assets/79662580/95ddd389-c419-46f1-80a3-fe6bb0c7c9fe) | ![image](https://github.com/dRabbit-ab/hw4-bioinf/assets/79662580/b56ef68d-329b-4e46-abe9-e3e1418ffa92) |
 
 
 | Абс. консверв-ые | Абс. фун-консерв-ые | Консверв-ые на 70% | Фун-консерв-ые на 70% |
