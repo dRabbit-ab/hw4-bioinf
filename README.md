@@ -26,3 +26,12 @@
 
 
 ## Задание 4
+
+
+| Clustal | Clustal 70% |
+|-|-|
+| ![image](https://github.com/dRabbit-ab/hw4-bioinf/assets/79662580/7cc9a348-2dc8-47ae-8418-fc3fd086c064) | ![image](https://github.com/dRabbit-ab/hw4-bioinf/assets/79662580/22a829b9-683e-4e3f-afa4-f169f566bc9a) |
+
+| Абс. консверв-ые | Абс. фун-консерв-ые | Консверв-ые на 70% | Фун-консерв-ые на 70% |
+|-|-|-|-|
+|  |  |  |  |
