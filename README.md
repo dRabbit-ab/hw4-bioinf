@@ -14,7 +14,7 @@
 ## Задание 3
 Для рассмотрения я взял участок 390-410
 
-| Clustal | Clustal 70% |
+| Clustal | Clustal by 70% |
 |-|-|
 | ![image](https://github.com/dRabbit-ab/hw4-bioinf/assets/79662580/95ddd389-c419-46f1-80a3-fe6bb0c7c9fe) | ![image](https://github.com/dRabbit-ab/hw4-bioinf/assets/79662580/b56ef68d-329b-4e46-abe9-e3e1418ffa92) |
 
@@ -28,7 +28,7 @@
 ## Задание 4
 
 
-| Clustal | Clustal 70% |
+| Clustal | Clustal by 70% |
 |-|-|
 | ![image](https://github.com/dRabbit-ab/hw4-bioinf/assets/79662580/7cc9a348-2dc8-47ae-8418-fc3fd086c064) | ![image](https://github.com/dRabbit-ab/hw4-bioinf/assets/79662580/22a829b9-683e-4e3f-afa4-f169f566bc9a) |
 
